@@ -1,0 +1,32 @@
+[
+  { "id": 1, "fname": "islam", "lname": "refaei", "age": 21, "city": "Fayoum" },
+  {
+    "id": 3,
+    "fname": "Yousef",
+    "lname": "refaei",
+    "age": 13,
+    "city": "Fayoum"
+  },
+  { "id": 5, "fname": "Ziad", "lname": "mohamed", "age": 20, "city": "Minya" },
+  {
+    "id": 7,
+    "fname": "mahmoud",
+    "lname": "mohamed",
+    "age": 36,
+    "city": "Cario"
+  },
+  {
+    "id": 9,
+    "fname": "mohsen",
+    "lname": "mohamed",
+    "age": 21,
+    "city": "Cario"
+  },
+  {
+    "id": 10,
+    "fname": "hamada",
+    "lname": "mohamed",
+    "age": 21,
+    "city": "Cario"
+  }
+]
